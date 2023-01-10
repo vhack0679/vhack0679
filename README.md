@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vhack0679
-- 👀 I’m interested in full stcak web development and cloud computing  
+- 👋 Hi, I’m Vishal Marati
+- 👀 I’m interested in full stcak  development and cloud computing  
 - 🌱 I’m currently Pursuing  BCA
 - 💞️ I’m looking to make something big in IT inindustry.
 - 📫 How to reach me vhack0679@gmail.com
