@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👀 I’m interested in **full stcak development **
+- 👀 I’m interested in **full stcak development**
 
 - 📚 I’m currently Pursuing **MCA**
 
