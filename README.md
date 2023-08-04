@@ -1,3 +1,6 @@
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ3gVYLf3-0mONPeMCAi0nUPjlUd679EYLeUiPKGEm9Yxz5lQsaG4isTXjqJxsrmpCoCn03ugaKPvhhN0bv0ZPqU87ZO2Ui3NA249tywf43pi6s8I6oW_NCZb8BvYO1N1lURsie4ob6T8e2Adqz8OyiuN6GlH701rNTDA1leAMLVjbESGS-DTvrUcwABk/s320/20230512_214321_0000.png"/>
+
+
 <h1 align="center">Hi 👋, I'm VISHAL MARATI</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
