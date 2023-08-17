@@ -1,7 +1,6 @@
 <html>
   <head>
     <meta name="google-site-verification" content="8wTJbPR0VNI1pBZ7B33AGe4e6XmavELZ4APR-LN2Wqk" />
-     <title>Vishal Github Project Repository</title>
   </head>
 <h1 align="center">Hi 👋, I'm VISHAL MARATI</h1>
 <div align="center">
