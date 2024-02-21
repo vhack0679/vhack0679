@@ -8,7 +8,7 @@
 </div>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
-- 🔭 I’m currently working on **PATIENT RECORD MANAGEMENT SYSTEM**
+- 🔭 I’m currently working on 𝐏𝐀𝐓𝐈𝐄𝐍𝐓 𝐑𝐄𝐂𝐎𝐑𝐃 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓 𝐒𝐘𝐒𝐓𝐄𝐌
 
 - 🌱 I’m currently learning **MERN STACK**
 
