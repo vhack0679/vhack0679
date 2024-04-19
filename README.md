@@ -14,8 +14,7 @@
 
 - 👀 I’m interested in **web development**
 
-- 📚 I’m currently Pursuing **MCA**
-
+-
 - 👨‍💻 All of my projects are available at [https://github.com/vhack0679?tab=repositories](https://github.com/vhack0679?tab=repositories)
 
 - 📝 I regularly write articles on [https://vishalmarati.blogspot.com/](https://vishalmarati.blogspot.com/)
