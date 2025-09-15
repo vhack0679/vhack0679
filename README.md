@@ -49,3 +49,13 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,html,css,javascript,react,nodejs,mysql,mongodb,express,bootstrap,flutter,firebase,git,figma" />
   </p>
+<p align="center">
+  <!-- AI & Tools Badges -->
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20FireStudio-FF6D00?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
