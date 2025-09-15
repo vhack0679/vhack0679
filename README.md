@@ -59,5 +59,6 @@
   <img src="https://img.shields.io/badge/Gemini%20API-34A853?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20FireStudio-FF6D00?style=for-the-badge&logo=google&logoColor=white"/>
- <img src="https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logo=ghost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-2E2E2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmVyc2lvbj0iMSIgdmlld0JveD0iMCAwIDUwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHRleHQgeD0iMTAiIHk9IjYwIiBmb250LXNpemU9IjEyIj5PbGxhbWE8L3RleHQ+Cjwvc3ZnPg=="
+       alt="Ollama Logo" style="height:28px; vertical-align:middle;" />
 </p>
