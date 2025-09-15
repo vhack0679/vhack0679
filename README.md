@@ -10,7 +10,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Generalist-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe-Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/MCA-2025-32CD32?style=for-the-badge"/>
 </div>
 <br>
