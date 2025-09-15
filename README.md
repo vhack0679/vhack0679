@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </li>
-<li>📝 I write blogs: 
+<li>
   <a href="https://vishalmarati.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
