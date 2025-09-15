@@ -24,7 +24,8 @@
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </li>
-
+<li>📝 I write blogs: <a href="https://vishalmarati.blogspot.com/" style="color:#58a6ff;">My Blog</a></li>
+  <li>📫 Contact me: <b style="color:#ff7b72;">vhack0679@gmail.com</b></li>
    
   </ul>
 
