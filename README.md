@@ -13,3 +13,27 @@
   <img src="https://img.shields.io/badge/MCA-2025-32CD32?style=for-the-badge"/>
 </div>
 <br>
+ <h2>🌟 About Me</h2>
+  <ul>
+    <li>🌱 Currently learning <b>AI Generalist skills & exploring AI Tools</b></li>
+    <li>🎓 Completed <b>Master of Computer Applications (MCA) in 2025</b></li>
+    <li>👀 Interested in <b>AI + Web Development</b></li>
+    <li>👨‍💻 My projects: <a href="https://github.com/vhack0679?tab=repositories" style="color:#58a6ff;">GitHub Repositories</a></li>
+    <li>📝 I write blogs: <a href="https://vishalmarati.blogspot.com/" style="color:#58a6ff;">My Blog</a></li>
+    <li>📫 Contact me: <b style="color:#ff7b72;">vhack0679@gmail.com</b></li>
+  </ul>
+
+  <h2>🤝 Connect With Me</h2>
+  <p>
+    <a href="https://in.linkedin.com/in/vishal-marati-2a86ab232" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:vhack0679@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+  <h2>🛠️ Languages & Tools</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,html,css,javascript,react,nodejs,mysql,mongodb,express,bootstrap,flutter,firebase,git,figma" />
+  </p>
