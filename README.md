@@ -18,7 +18,7 @@
   <ul>
     <li>🌱 Currently learning <b>AI Generalist skills & exploring AI Tools</b></li>
     <li>🎓 Completed <b>Master of Computer Applications (MCA) in 2025</b></li>
-    <li>👀 Interested in <b>AI + Web Development</b></li>
+   <li>👀 Interested in <b>🧠 Artificial Intelligence</b> | <b>📊 Machine Learning</b> | <b>🤖 Generative AI</b></li>
     <li>👨‍💻 My projects: <a href="https://github.com/vhack0679?tab=repositories" style="color:#58a6ff;">GitHub Repositories</a></li>
     <li>📝 I write blogs: <a href="https://vishalmarati.blogspot.com/" style="color:#58a6ff;">My Blog</a></li>
     <li>📫 Contact me: <b style="color:#ff7b72;">vhack0679@gmail.com</b></li>
