@@ -1,5 +1,4 @@
-
-    <h1 align="center">🤖 Hi, I'm <span style="color:#58a6ff;">Vishal Marati</span></h1>
+  <h1 align="center">🤖 Hi, I'm <span style="color:#58a6ff;">Vishal Marati</span></h1>
 
     <div align="center">
       <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" height="150px"/>
@@ -14,7 +13,6 @@
       <img src="https://img.shields.io/badge/MCA-2025-32CD32?style=for-the-badge"/>
     </div>
     <br>
-
   <h2>🌟 About Me</h2>
   <ul>
     <li>🌱 Currently building expertise as an <b>AI Generalist</b></li>
