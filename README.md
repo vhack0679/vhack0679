@@ -59,4 +59,5 @@
   <img src="https://img.shields.io/badge/Gemini%20API-34A853?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20FireStudio-FF6D00?style=for-the-badge&logo=google&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ollama-1A1A1A?style=for-the-badge&logo=ghost&logoColor=white"/>
 </p>
