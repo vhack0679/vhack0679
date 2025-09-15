@@ -46,9 +46,10 @@
   </p>
 
   <h2>🛠️ Languages & Tools</h2>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,html,css,javascript,react,nodejs,mysql,mongodb,express,bootstrap,flutter,firebase,git,figma" />
-  </p>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,cpp,c,go,html,css,javascript,react,nodejs,mysql,mongodb,express,bootstrap,flutter,firebase,git,figma" />
+</p>
+
 <p align="center">
   <!-- AI & Tools Badges -->
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
