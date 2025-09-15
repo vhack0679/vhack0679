@@ -1,6 +1,4 @@
 
-  <body style="font-family: Arial, sans-serif; background: #0d1117; color: #c9d1d9;">
-
     <h1 align="center">🤖 Hi, I'm <span style="color:#58a6ff;">Vishal Marati</span></h1>
 
     <div align="center">
