@@ -25,8 +25,7 @@
   </a>
 </li>
 
-    <li>📝 I write blogs: <a href="https://vishalmarati.blogspot.com/" style="color:#58a6ff;">My Blog</a></li>
-    <li>📫 Contact me: <b style="color:#ff7b72;">vhack0679@gmail.com</b></li>
+   
   </ul>
 
   <h2>🤝 Connect With Me</h2>
